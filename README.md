@@ -3,6 +3,7 @@
 👀 I'm passionate about crafting seamless digital experiences by blending technology, creativity, and social impact.
 
 🌱 Currently, I'm immersing myself in the realms of machine learning, front-end and back-end web development, and UI/UX design.
+
 🚀 Currently honing my skills in web development, software engineering, and machine learning to build impactful projects.
 
 💡 I thrive on collaborating with like-minded individuals on projects that push the boundaries of innovation and contribute positively to society.
