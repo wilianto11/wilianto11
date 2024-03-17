@@ -22,6 +22,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-📄 Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+📄 Licensed under the [MIT License](LICENSE).
 
 <!-- Let's innovate, create, and inspire together! -->
