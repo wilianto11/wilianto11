@@ -99,7 +99,7 @@ This project is licensed under the **MIT License (Coffee-Ware Variant)**.
 > ✨ If you use this software for personal, educational, or commercial purposes,  
 > you are kindly required to **[buy me a coffee](https://trakteer.id/wilianto)** ☕
 
-[View Full License →](https://img.shields.io/badge/license-MIT--CoffeeWare-blueviolet)
+[MIT License](https://github.com/wilianto11/LICENSE?tab=License-1-ov-file)
 
 ---
 
