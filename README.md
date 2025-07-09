@@ -71,6 +71,15 @@ I'm a **Fullstack Web Developer** who’s passionate about building reliable, sc
 | [🤖 Telegram Bot Tools](#) | Automated Telegram bot for information queries and scheduled tasks. | Python, Telegram Bot API |
 | [🧠 Word Detection System](#) | Intelligent system to analyze and detect keywords from user text input. | Python, NLP |
 | [🌐 Portfolio Site](#) | Personal portfolio showcasing photography and software projects. | HTML, Tailwind CSS, Vite |
+| [🤖 Bot JDIH](https://github.com/wilianto11/bot_jdih) | Telegram bot to search legal documents & news via keyword and category. | Python, Telegram Bot API |
+| [📑 e-Raperda (KKP)](https://github.com/wilianto11/kkp_wilianto_fix) | Government platform to propose and manage local regulations digitally. | Laravel, Blade, Tailwind |
+| [🧾 App Nona ASN](https://github.com/wilianto11/app-nonasn) | Attendance web app with face capture, fake GPS detection, and reporting tools. | Laravel, Leaflet, REST API |
+| [📷 Personal Portfolio](https://github.com/wilianto11/portofolio) | A portfolio site showcasing photography & software projects. | HTML, Tailwind CSS, Vite |
+| [📬 Letters Management](https://github.com/wilianto11/lettersv1) | Letter creation and tracking system with role-based access and archiving. | Laravel, AdminLTE |
+| [🌐 REST API - NodeJS](https://github.com/wilianto11/rest-api-node-js) | Basic CRUD REST API with JWT authentication. | Node.js, Express, PostgreSQL |
+| [💍 Frontend Undangan](https://github.com/wilianto11/frontend-undangan.github.io) | Digital wedding invitation with RSVP and Google Maps support. | HTML, Tailwind CSS |
+
+> 💡 *And over 40 more repositories available at* 👉 [github.com/wilianto11](https://github.com/wilianto11)
 
 > 🚀 More exciting projects are coming soon!
 
