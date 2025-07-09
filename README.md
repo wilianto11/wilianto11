@@ -64,10 +64,15 @@ I'm a **Fullstack Web Developer** who’s passionate about building reliable, sc
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [📰 NewsPortal](https://github.com/wilianto11/website-berita) | Full-featured Laravel news website with Docker setup, trending tags, category filtering, and dynamic ads | Laravel, PostgreSQL, Redis, Tailwind, Docker |
-| [💼 Portfolio Site](#) | Personal portfolio showcasing photography and software projects | HTML, Tailwind CSS, Vite |
+| [📰 NewsPortal](https://github.com/wilianto11/website-berita) | Laravel-based news platform with Docker, trending tags, category filters, and dynamic ad system. | Laravel, PostgreSQL, Redis, Tailwind, Docker |
+| [📱 Fake GPS Detector](#) | Mobile/web-based system to detect fake GPS for attendance or location-based validation. | Flutter, Laravel |
+| [📑 e-Raperda](#) | A government document proposal system for managing draft regional regulations. | Laravel, Tailwind CSS |
+| [🏢 Company Profile](#) | Interactive company profile website with responsive design and product showcase. | HTML, CSS, JavaScript |
+| [🤖 Telegram Bot Tools](#) | Automated Telegram bot for information queries and scheduled tasks. | Python, Telegram Bot API |
+| [🧠 Word Detection System](#) | Intelligent system to analyze and detect keywords from user text input. | Python, NLP |
+| [🌐 Portfolio Site](#) | Personal portfolio showcasing photography and software projects. | HTML, Tailwind CSS, Vite |
 
-> More projects coming soon...
+> 🚀 More exciting projects are coming soon!
 
 ---
 
