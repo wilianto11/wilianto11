@@ -73,7 +73,7 @@ I'm a **Fullstack Web Developer** who’s passionate about building reliable, sc
 | [🌐 Portfolio Site](#) | Personal portfolio showcasing photography and software projects. | HTML, Tailwind CSS, Vite |
 | [🤖 Bot JDIH](https://github.com/wilianto11/bot_jdih) | Telegram bot to search legal documents & news via keyword and category. | Python, Telegram Bot API |
 | [📑 e-Raperda (KKP)](https://github.com/wilianto11/kkp_wilianto_fix) | Government platform to propose and manage local regulations digitally. | Laravel, Blade, Tailwind |
-| [🧾 App Nona ASN](https://github.com/wilianto11/app-nonasn) | Attendance web app with face capture, fake GPS detection, and reporting tools. | Laravel, Leaflet, REST API |
+| [🧾 App Non ASN](https://github.com/wilianto11/app-nonasn) | Attendance web app with face capture, fake GPS detection, and reporting tools. | Laravel, Leaflet, REST API |
 | [📷 Personal Portfolio](https://github.com/wilianto11/portofolio) | A portfolio site showcasing photography & software projects. | HTML, Tailwind CSS, Vite |
 | [📬 Letters Management](https://github.com/wilianto11/lettersv1) | Letter creation and tracking system with role-based access and archiving. | Laravel, AdminLTE |
 | [🌐 REST API - NodeJS](https://github.com/wilianto11/rest-api-node-js) | Basic CRUD REST API with JWT authentication. | Node.js, Express, PostgreSQL |
